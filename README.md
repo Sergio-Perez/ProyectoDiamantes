@@ -1,6 +1,6 @@
 # Proyecto competición Kaggle del dataset Diamantes.
 
-![Diamantes] "/home/sergio/bootcamp/ProyectDiamond/Output/Diamantes.jpg"
+![Diamantes] (/imagenes/Diamantes.jpg)
 
 Este proyecto trata de desde un dataset de kaggle. Limpiar sus datos, estudiar lo que necesitan esos datos para poder sacar una buena predición de cuanto costaran esos diamantes según:
     
